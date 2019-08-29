@@ -1,2 +1,2 @@
 # linux-assistant
-A voice assistant created using google API.
+A voice assistant using google API.
